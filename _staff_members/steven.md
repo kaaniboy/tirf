@@ -1,7 +1,7 @@
 ---
 name: Steven Tran
-position: Computer Fucker
-image_path: https://bundler.io/images/header_transparent_bg.png
-twitter: TheRealDonaldTrump
+position: President
+image_path: https://i.imgur.com/KrXLewr.jpg
+twitter: 
 blurb: Steven loves going to bike rides and spending time with his family.
 ---
