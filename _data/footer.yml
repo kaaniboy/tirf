@@ -1,19 +1,10 @@
 - links:
-  - name: Pricing
-    link: /pricing/
+  - name: Home
+    link: /
   - name: Blog
     link: /blog/
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
-- links:
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
 - links:
   - name: Facebook
     link: https://facebook.com

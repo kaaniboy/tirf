@@ -1,7 +1,7 @@
 ---
 name: Steven Tran
-position: President
+position: Co-President
 image_path: https://i.imgur.com/KrXLewr.jpg
-twitter: 
+leetcode: steven85048 
 blurb: Steven loves going to bike rides and spending time with his family.
 ---

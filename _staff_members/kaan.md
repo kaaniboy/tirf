@@ -1,7 +1,7 @@
 ---
 name: Kaan Aksoy
-position: President
+position: Co-President
 image_path: https://i.imgur.com/t615qyo.png
-twitter: CloudCannonApp
+leetcode: kaaniboy
 blurb: Kaan loves grinding Leetcode.
 ---
