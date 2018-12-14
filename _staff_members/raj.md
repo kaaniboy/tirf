@@ -1,7 +1,7 @@
 ---
 name: Raj Shah
 position: President
-image_path: https://i.imgur.com/cVhQeyv.jpg
+image_path: https://i.imgur.com/2BkcZJ6.jpg
 twitter: rajshah8
 blurb: Raj Shah likes to spend time with friends and eat good food.
 ---
